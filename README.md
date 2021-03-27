@@ -6,6 +6,6 @@ In this project, I assessed & modified the HTML Elements in order to provide a h
 ## Results
 A screenshot of the finished [HomePage](./assets/images/Homework01-SC.png) is attached.
 
-
+Please view the full site at https://selburke.github.io/homework01/.
 
 
